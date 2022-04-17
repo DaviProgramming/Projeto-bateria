@@ -1,0 +1,3 @@
+# PROJETO SIMPLES UTILIZANDO HTML,CSS E JAVASCRIPT
+- ABAIXO PRINT DE DEMONSTRAÇÃO
+<img src="https://i.imgur.com/ejPaIIt.png">
